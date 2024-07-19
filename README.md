@@ -1,2 +1,2 @@
 # PythonGridVisual
-Grid visual using pygame
+Grid visual using Pygame
